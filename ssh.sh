@@ -1,7 +1,6 @@
 #!/bin/bash
 #set -o
 #takes any amount of arguments and ssh into host then runs uname to identify
-#testing
 
 #[ $# -eq 0 ] && { echo "Usage: $0 user@hostname user@hostname2 user@hostname3 ..."; exit 1; }
 
